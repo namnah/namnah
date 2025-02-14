@@ -36,3 +36,4 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/namnah)
 
 Thank you for visiting my profile! 😄
+I am away due to my Karate Classes
