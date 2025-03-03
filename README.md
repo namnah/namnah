@@ -25,7 +25,10 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 
 ![Namnah's GitHub stats](https://github-readme-stats.vercel.app/api?username=namnah&show_icons=true&theme=radical)
 
+
 ## 📌 Pinned Repositories
+
+
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=namnah&repo=awesome-project&theme=radical)](https://github.com/namnah/awesome-project)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=namnah&repo=another-cool-project&theme=radical)](https://github.com/namnah/another-cool-project)
