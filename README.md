@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 - 💬 Ask me about Python, JavaScript, and web development.
 - 📫 How to reach me: 
 - ⚡ Fun fact: I enjoy solving complex puzzles and participating in hackathons.
+- 
 
 ## 🔧 Technologies & Tools
 
